@@ -1,0 +1,18 @@
+{
+  "widget": {
+    "name": "TagColorEnhancer",
+    "description": "Colorir automaticamente cards de leads/conversas com base em tags.",
+    "short_description": "Realce visual por tag",
+    "version": "1.0.0",
+    "interface_version": 2,
+    "locale": ["pt"],
+    "installation": true
+  },
+  "locations": [
+    "everywhere",
+    "llist",
+    "lcard",
+    "clist",
+    "comcard"
+  ]
+}

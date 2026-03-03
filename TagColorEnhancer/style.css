@@ -1,0 +1,15 @@
+/*
+ * Classe aplicada quando o card possui a tag "urgente".
+ * Cor de fundo vermelho claro com prioridade alta.
+ */
+.tag-urgente {
+  background-color: #ffd6d6 !important;
+}
+
+/*
+ * Classe aplicada quando o card possui a tag "importante".
+ * Cor de fundo amarelo claro com prioridade alta.
+ */
+.tag-importante {
+  background-color: #fff3c4 !important;
+}
