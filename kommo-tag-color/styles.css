@@ -1,0 +1,18 @@
+/**
+ * Estilos da extensão "Kommo Tag Color".
+ *
+ * As classes abaixo são adicionadas via content.js quando um card
+ * contiver as palavras-chave "urgente" ou "importante".
+ */
+
+/* Card com tag/termo "urgente": vermelho claro */
+.kommo-tag-color--urgente {
+  background-color: #ffd7d7 !important;
+  transition: background-color 0.2s ease-in-out;
+}
+
+/* Card com tag/termo "importante": amarelo claro */
+.kommo-tag-color--importante {
+  background-color: #fff7cc !important;
+  transition: background-color 0.2s ease-in-out;
+}
